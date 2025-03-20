@@ -1,7 +1,7 @@
 # uml-sistema-vendas
 Modelo conceitual de um sistema de vendas com diagramas UML, desenvolvido como parte do curso DevSuperior.
 
-#
+# Tarefa
 Com base na visão geral de sistema abaixo, faça:
 - O modelo conceitual usando o diagrama de classes da UML
 - Esboce uma instância do modelo, atendendo os requisitos mínimos pedidos
